@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: sse.error.sample.app
+---
+testFramework: kotlintest
+sourceLanguage: kotlin
